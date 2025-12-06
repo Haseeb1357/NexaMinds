@@ -9,11 +9,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Modern UI/UX website</h3>
-
-   <div align="center">
-     This project design is taken from JsMastery
-    </div>
+  <h3 align="center">Modern AI Chat Application</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -47,10 +43,3 @@ NexaMind is a cutting-edge UI/UX website created with React.js and Tailwind CSS,
 👉 **Responsive**: Ensures seamless functionality and aesthetics on all devices.
 
 And much more, including code architecture and reusability.
-
-### Website Design
-
-The design is taken from
-<a href = "https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm"> brainwave</a>
-
-<h5>Big Credit Goes to JsMastery</h5>
